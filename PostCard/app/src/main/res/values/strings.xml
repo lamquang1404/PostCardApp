@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PostCard</string>
+    <string name="dialog_color">ColorDialog</string>
+</resources>
